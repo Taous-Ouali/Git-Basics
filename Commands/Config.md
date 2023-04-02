@@ -15,6 +15,8 @@ For more information, view the [first time git setup](https://git-scm.com/book/e
 ---
 
 [Back to home](../README.md)
+- [git init](./commands/Init.md)
+
 
 
 
