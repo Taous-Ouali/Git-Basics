@@ -1,0 +1,3 @@
+# git config
+
+when first setting up git, you'll need to work ....
